@@ -340,20 +340,5 @@ Don't forget to open the following UDP ports on the host: `10999`, `11000` (if u
 
 Make sure you delete the contents of the /save/DoNotStarveTogether folder except the token. At the end, the container structure looks like this:
 
-/mnt/data/stacks/dst_server/
-├── compose.yaml
-├── Dockerfile
-├── entrypoint.sh
-└── save/
-    └── .klei/
-        └── DoNotStarveTogether/
-            └── MyDediServer/
-                ├── cluster.ini
-                ├── cluster_token.txt
-                ├── Master/
-                │   └── server.ini
-                └── Caves/
-                    └── server.ini
-└── save/
-    └── DoNotStarveTogether/
-        └── cluster_token.txt
+<img width="264" height="344" alt="изображение" src="https://github.com/user-attachments/assets/bf321075-c04f-48a9-9f79-04a471d50905" />
+
