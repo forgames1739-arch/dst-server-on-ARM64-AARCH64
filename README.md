@@ -254,11 +254,14 @@ About paths in `volumes:` — use an **absolute path** (`/mnt/data/stacks/dst_se
 ### Option A — from the archive downloaded in Step 0 (recommended)
 Extract `MyDediServer.zip` so you get:
 ```
-save//DoNotStarveTogether/MyDediServer/
+save/.klei/DoNotStarveTogether/MyDediServer/
                               ├── cluster.ini
                               ├── cluster_token.txt
                               ├── Master/...
                               └── Caves/...
+
+save/DoNotStarveTogether/MyDediServer/
+                              └── cluster_token.txt
 ```
 Be sure to check permissions: the container runs as a user with a UID matching `ubuntu` inside the image. If files were dropped via SFTP as root, you may need:
 ```bash
