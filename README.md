@@ -1,4 +1,4 @@
-# Complete Guide: DST Server on ARM via Dockge
+# Complete Guide: DST Server on ARM via Dockge v1.0
 
 ## Why this complex scheme is needed
 
