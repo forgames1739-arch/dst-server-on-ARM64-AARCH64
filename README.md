@@ -354,6 +354,6 @@ Make sure you delete the contents of the /save/DoNotStarveTogether folder except
                 │   └── server.ini
                 └── Caves/
                     └── server.ini
-
+└── save/
     └── DoNotStarveTogether/
         └── cluster_token.txt
