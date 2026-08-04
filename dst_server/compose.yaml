@@ -5,11 +5,11 @@ services:
     restart: unless-stopped
     environment:
       SHARD: Master
-      CLUSTER_TOKEN: pds-g^KU_ZIGjeWAP^Rk1YOzjNzMtJe6Ewnvp8YdWxgzF31y+K3oNRQyHRYAA=
+      CLUSTER_TOKEN: TOKEN
       CLUSTER_NAME: MyDediServer
-      CLUSTER_DISPLAY_NAME: 3 Брата Акробата
-      CLUSTER_DESCRIPTION: Уютный мирок
-      CLUSTER_PASSWORD: "759"
+      CLUSTER_DISPLAY_NAME: 1234
+      CLUSTER_DESCRIPTION: 1234
+      CLUSTER_PASSWORD: "1234"
       MAX_PLAYERS: "4"
       GAME_MODE: survival
       PVP: "false"
@@ -37,7 +37,7 @@ services:
       - dst-server
     environment:
       SHARD: Caves
-      CLUSTER_TOKEN: pds-g^KU_ZIGjeWAP^Rk1YOzjNzMtJe6Ewnvp8YdWxgzF31y+K3oNRQyHRYAA=
+      CLUSTER_TOKEN: TOKEN
       CLUSTER_NAME: MyDediServer
       ARM64_DEVICE: generic
       BOX64_DYNAREC_BIGBLOCK: "0"
