@@ -1,0 +1,8 @@
+
+
+[2026-07-23 06:15:11] Client version: no bootstrapper found
+[2026-07-23 06:15:11] Initialized system displaymanager: default
+
+
+[2026-07-23 06:26:35] Client version: no bootstrapper found
+[2026-07-23 06:26:35] Initialized system displaymanager: default

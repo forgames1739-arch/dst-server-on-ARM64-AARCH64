@@ -1,0 +1,403 @@
+[00:00:00]: PersistRootStorage is now /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 740477
+[00:00:00]: Current time: Tue Aug  4 12:28:01 2026
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: b5c5017a5fbc
+[00:00:00]: Release(Kernel) Version: 6.17.0-1018-oracle
+[00:00:00]: Kernel Build Timestamp: #18~24.04.1-Ubuntu SMP Mon Jun 22 18:23:57 UTC 2026
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 740477 LINUX
+[00:00:00]: Build Date: 3879
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -persistent_storage_root /home/ubuntu/dst/save -cluster MyDediServer -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (261443336264992)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:11.75
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:02]: [Steam] SteamGameServer_Init success
+[00:00:02]: [Connect] PendingConnection::Reset(true)
+[00:00:02]: Platform: 1
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: THREAD - started 'StreamInput' (261442885377312)
+[00:00:02]: OnLoadPermissionList: /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:02]: OnLoadPermissionList: /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:02]: OnLoadUserIdList: /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:02]: Token retrieved from: /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:02]: Token retrieved from: /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:02]: cGame::InitializeOnMainThread
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: AppVersion::GetArchitecture() x64
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: Could not load modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: Registering Mods:
+[00:00:03]: No mods registered
+[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:06]: LOADING LUA SUCCESS
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: ServerPreferences could not load server_preferences	
+[00:00:06]: ConsoleScreenSettings could not load consolescreen	
+[00:00:06]: bloom_enabled	true	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Klump load on boot started.	
+[00:00:06]: Klump files loaded: 	0	
+[00:00:10]: 	Load FE	
+[00:00:12]: THREAD - started 'FilesExistAsyncThread' (261442406292768)
+[00:00:12]: 	Load FE: done	
+[00:00:12]: Check for write access: TRUE
+[00:00:12]: Check for read access: TRUE
+[00:00:12]: Available disk space for save files: 132532 MB
+[00:00:12]: ModIndex: Load sequence finished successfully.	
+[00:00:12]: Reset() returning
+[00:00:12]: FilesExistAsyncThread started (0 files)...
+[00:00:12]: ... FilesExistAsyncThread complete
+[00:00:12]: [200] Account Communication Success (6)
+[00:00:12]: Cached userid (null) saved to /home/ubuntu/dst/save//DoNotStarveTogether/MyDediServer/Master/save/cached_userid
+[00:00:12]: Received (KU_ZIGjeWAP) from TokenPurpose
+[00:00:12]: Starting Dedicated Server Game	
+[00:00:12]: Network tick rate: U=15(2), D=0
+[00:00:12]: About to start a server with the following settings:
+[00:00:12]:   Dedicated: true
+[00:00:12]:   Online: true
+[00:00:12]:   Passworded: false
+[00:00:12]:   ServerPort: 10999
+[00:00:12]:   SteamAuthPort: 8766
+[00:00:12]:   SteamMasterServerPort: 27016
+[00:00:12]:   ClanID: false
+[00:00:12]:   ClanOnly: false
+[00:00:12]:   ClanAdmin: false
+[00:00:12]:   LanOnly: false
+[00:00:12]:   FriendsOnly: false
+[00:00:12]:   EnableAutosaver: true
+[00:00:12]:   EncodeUserPath: false
+[00:00:12]:   PVP: false
+[00:00:12]:   MaxPlayers: 16
+[00:00:12]:   GameMode: survival
+[00:00:12]:   OverridenDNS: 
+[00:00:12]:   PauseWhenEmpty: false
+[00:00:12]:   IdleTimeout: 1800s
+[00:00:12]:   VoteEnabled: true
+[00:00:12]:   InternetBroadcasting: true
+[00:00:12]: [Shard] Shard server mode disabled by configuration file
+[00:00:12]: Online Server Started on port: 10999
+[00:00:12]: [ClientObject] Added (pre-auth) on server: guid=4755542725873045210
+[00:00:12]: [ClientObject] Initialized (self/server object, locally trusted) on server: guid=4755542725873045210 userid=KU_ZIGjeWAP netid= admin=1
+[00:00:12]: Error trying to change cluster setting (NETWORK->cluster_name) from '' to '[Host]'s World'
+[00:00:12]: Not applying level data overrides.	
+[00:00:12]: Not applying world gen overrides.	
+[00:00:12]: Collecting garbage...
+[00:00:12]: lua_gc took 0.21 seconds
+[00:00:12]: ~ShardLuaProxy()
+[00:00:12]: ~cEventLeaderboardProxy()
+[00:00:12]: ~ItemServerLuaProxy()
+[00:00:12]: ~InventoryLuaProxy()
+[00:00:12]: ~NetworkLuaProxy()
+[00:00:12]: ~SimLuaProxy()
+[00:00:12]: lua_close took 0.19 seconds
+[00:00:12]: ReleaseAll
+[00:00:12]: ReleaseAll Finished
+[00:00:12]: cGame::StartPlaying
+[00:00:12]: AppVersion::GetArchitecture() x64
+[00:00:12]: LOADING LUA
+[00:00:12]: DoLuaFile scripts/main.lua
+[00:00:12]: DoLuaFile loading buffer scripts/main.lua
+[00:00:13]:   taskgrouplist:	default	Together	
+[00:00:13]:   taskgrouplist:	classic	Classic	
+[00:00:13]:   taskgrouplist:	cave_default	Underground	
+[00:00:13]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:13]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:14]: Running main.lua
+	
+[00:00:14]: loaded modindex	
+[00:00:14]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:14]: Registering Mods:
+[00:00:14]: No mods registered
+[00:00:14]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:14]: LOADING LUA SUCCESS
+[00:00:14]: PlayerDeaths could not load morgue	
+[00:00:14]: PlayerHistory could not load player_history	
+[00:00:14]: ServerPreferences could not load server_preferences	
+[00:00:14]: ConsoleScreenSettings could not load consolescreen	
+[00:00:14]: bloom_enabled	true	
+[00:00:14]: OnFilesLoaded()	
+[00:00:14]: OnUpdatePurchaseStateComplete	
+[00:00:14]: Not applying level data overrides.	
+[00:00:14]: Not applying world gen overrides.	
+[00:00:14]: WorldSim::SimThread::SimThread()
+[00:00:14]: ABOUT TO INSTALL STACKTRACE
+[00:00:14]: DoLuaFile scripts/stacktrace.lua
+[00:00:14]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:00:14]: INSTALLED STACKTRACE
+[00:00:14]: Engine Seed: (1785846495 + 3389173439) & 0x7FFFFFFF = 880052638
+[00:00:14]: WorldSim::SimThread::SimThread() complete
+[00:00:14]: THREAD - started 'WorldSim' (261442151308576)
+[00:00:14]: WorldSim::SimThread::Main()
+[00:00:14]: DoLuaFile scripts/worldgen_main.lua
+[00:00:14]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:00:14]: Check for write access: TRUE
+[00:00:14]: Check for read access: TRUE
+[00:00:14]: Available disk space for save files: 132532 MB
+[00:00:14]: ModIndex: Load sequence finished successfully.	
+[00:00:14]: Reset() returning
+[00:00:14]: DLC enabled : 	false	
+[00:00:15]:   taskgrouplist:	default	Together	
+[00:00:15]:   taskgrouplist:	classic	Classic	
+[00:00:15]:   taskgrouplist:	cave_default	Underground	
+[00:00:15]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:15]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:15]: running worldgen_main.lua
+	
+[00:00:15]: SEED = 	880052638	
+[00:00:15]: Generating world with these parameters:	
+[00:00:15]: level_type	SURVIVAL	
+[00:00:15]: level_data:	
+[00:00:15]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:00:15]: 	K: 	hideminimap	 V: 	false	
+[00:00:15]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:15]: 	K: 	location	 V: 	forest	
+[00:00:15]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:15]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:15]: 	K: 	name	 V: 	Survival	
+[00:00:15]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:15]: 	K: 	override_level_string	 V: 	false	
+[00:00:15]: 	K: 	overrides	 V: 	table: 0xedc7b27ac8a0	
+[00:00:15]: 		K: 	has_ocean	 V: 	true	
+[00:00:15]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:15]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:15]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:15]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:15]: 		K: 	roads	 V: 	default	
+[00:00:15]: 		K: 	season_start	 V: 	default	
+[00:00:15]: 		K: 	start_location	 V: 	default	
+[00:00:15]: 		K: 	task_set	 V: 	default	
+[00:00:15]: 		K: 	world_size	 V: 	default	
+[00:00:15]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:15]: 	K: 	random_set_pieces	 V: 	table: 0xedc7b27aa330	
+[00:00:15]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:15]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:15]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:15]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:15]: 		K: 	5	 V: 	Chessy_1	
+[00:00:15]: 		K: 	6	 V: 	Chessy_2	
+[00:00:15]: 		K: 	7	 V: 	Chessy_3	
+[00:00:15]: 		K: 	8	 V: 	Chessy_4	
+[00:00:15]: 		K: 	9	 V: 	Chessy_5	
+[00:00:15]: 		K: 	10	 V: 	Chessy_6	
+[00:00:15]: 		K: 	11	 V: 	Maxwell1	
+[00:00:15]: 		K: 	12	 V: 	Maxwell2	
+[00:00:15]: 		K: 	13	 V: 	Maxwell3	
+[00:00:15]: 		K: 	14	 V: 	Maxwell4	
+[00:00:15]: 		K: 	15	 V: 	Maxwell6	
+[00:00:15]: 		K: 	16	 V: 	Maxwell7	
+[00:00:15]: 		K: 	17	 V: 	Warzone_1	
+[00:00:15]: 		K: 	18	 V: 	Warzone_2	
+[00:00:15]: 		K: 	19	 V: 	Warzone_3	
+[00:00:15]: 	K: 	required_prefabs	 V: 	table: 0xedc7b27a8e00	
+[00:00:15]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:15]: 	K: 	required_setpieces	 V: 	table: 0xedc7b27a74d0	
+[00:00:15]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:15]: 		K: 	2	 V: 	Maxwell5	
+[00:00:15]: 	K: 	substitutes	 V: 	table: 0xedc7b27a7270	
+[00:00:15]: 	K: 	version	 V: 	4	
+[00:00:15]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
+[00:00:15]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:15]: 	K: 	worldgen_name	 V: 	Survival	
+[00:00:15]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:00:15]: Prefab Swap Selection: grass gekko	
+[00:00:15]: Prefab Swap Selection: regular twigs	
+[00:00:15]: Prefab Swap Selection: juicy berries	
+[00:00:15]: Sculptures_1 added to task Make a pick	
+[00:00:15]: Maxwell5 added to task For a nice walk	
+[00:00:15]: Sculptures_4 added to task The hunters	
+[00:00:15]: Sculptures_2 added to task Make a pick	
+[00:00:15]: Sculptures_2 added to task Great Plains	
+[00:00:15]: Maxwell7 added to task Lightning Bluff	
+[00:00:15]: New size:	425	default	
+[00:00:15]: Creating story...	
+[00:00:15]: [Story Gen] Generate nodes. Starting at: 'Make a pick'	
+[00:00:15]: [Story Gen] LinkNodesByKeys	
+[00:00:15]: Finding valid start task...	
+[00:00:15]:    ...picked 	Make a pick	
+[00:00:15]: Has start node	Clearing	
+[00:00:15]: Adding Background Nodes	
+[00:00:15]: [Story Gen] Adding Cove Nodes	
+[00:00:15]: [Ocean] Processing ocean fake room content.	
+[00:00:15]: [WorldSimActual::WorldGen_InitializeNodePoints]
+[00:00:15]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:15]: GenerateVoronoiMap [100]:
+[00:00:19]: ...Done.
+[00:00:19]: [Story Gen] Finding nodes on mainland to connect a region to.	
+[00:00:19]: [Story Gen] Generate nodes. Starting at: 'MoonIsland_IslandShards'	
+[00:00:19]: [Story Gen] RestrictNodesByKey	
+[00:00:19]: [Story Gen] Adding Cove Nodes	
+[00:00:19]: [WorldSimActual::WorldGen_AddNewPositions]
+[00:00:19]: [WorldSimActual::WorldGen_VoronoiPass]
+[00:00:19]: GenerateVoronoiMap [50]:
+[00:00:21]: ...Done.
+[00:00:21]: ... story created	
+[00:00:21]: Baking map...	425	
+[00:00:21]: [WorldSimActual::WorldGen_Commit] worldgen success.
+[00:00:21]: [WorldSimActual::ConvertToTileMap]
+[00:00:21]: [ConvertToTileMap]
+[00:00:21]: [WorldSimActual::ConvertToTileMap] complete
+[00:00:21]: [WorldSimActual::SeparateIslands]
+[00:00:21]: [SeparateIslands]
+[00:00:21]: [WorldSimActual::SeparateIslands] complete
+[00:00:21]: Map Baked!	
+[00:00:21]: [WorldSimActual::ForceConnectivity]
+[00:00:21]: [GenerateLandmasses]
+[00:00:21]: [GenerateLandmasses] islands: 11
+[00:00:21]: [MergeConnectedLandmasses] false
+[00:00:21]: [WorldSimActual::ForceConnectivity] complete
+[00:00:21]: [WorldSimActual::DrawRoads]
+[00:00:21]: [DrawRoads]
+[00:00:21]: [WorldSimActual::DrawRoads] complete
+[00:00:21]: Encoding...	
+[00:00:21]: [WorldSimActual::CreateNodeIdTileMap]
+[00:00:21]: Encoding... DONE	
+[00:00:21]: Checking Tags	
+[00:00:21]: Tag: Labyrinth	
+[00:00:21]: Tag: Maze	
+[00:00:21]: Populating voronoi...	
+[00:00:22]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:22]: [ReplaceSingleNonLandTiles] Replaced 4 tiles.
+[00:00:22]: Not checking for disconnected tiles.	
+[00:00:23]: [Ocean] Placing ocean set pieces.	
+[00:00:23]: [Ocean] Placed 11 of 11 ocean set pieces.	
+[00:00:23]: [Ocean] Convert impassible to water...	
+[00:00:23]: [Ocean]  Square fill...	
+[00:00:30]: [Ocean]  Ground fill...	
+[00:00:31]: [Ocean]  Noise...	
+[00:00:32]: [Ocean]  Blend...	
+[00:00:33]: [Ocean]  Adding shoreline...	
+[00:00:34]: [Ocean] Void Outline...	
+[00:00:34]: [Ocean] Populating the ocean with lots of fun things to do...	
+[00:00:35]: [Ocean] Placing ocean set pieces.	
+[00:00:35]: [Ocean] Placed 9 of 9 ocean set pieces.	
+[00:00:35]: [Ocean] Placing ocean set pieces.	
+[00:00:35]: [Ocean] Placed 1 of 1 ocean set pieces.	
+[00:00:35]: [Ocean] Placing ocean set pieces.	
+[00:00:35]: [Ocean] Placed 3 of 3 ocean set pieces.	
+[00:00:35]: Checking Required Prefab moon_altar_rock_glass has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab sculpture_bishop has at least 1 instances (5 found).	
+[00:00:35]: Checking Required Prefab pigking has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab moon_fissure has at least 2 instances (97 found).	
+[00:00:35]: Checking Required Prefab monkeyqueen has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab terrariumchest has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab gravestone has at least 1 instances (39 found).	
+[00:00:35]: Checking Required Prefab statueglommer has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab waterplant has at least 1 instances (110 found).	
+[00:00:35]: Checking Required Prefab balatro_machine has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab sculpture_rook has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab hermithouse_construction1 has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab moon_altar_rock_seed has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab charlie_stage_post has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab statueharp_hedgespawner has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab crabking_spawner has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab moon_altar_rock_idol has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab junk_pile_big has at least 1 instances (1 found).	
+[00:00:35]: Checking Required Prefab sculpture_knight has at least 1 instances (5 found).	
+[00:00:35]: Checking Required Prefab oceanwhirlbigportal has at least 1 instances (1 found).	
+[00:00:35]: [ReplaceSingleNonLandTiles] Validating...
+[00:00:35]: [ReplaceSingleNonLandTiles] Replaced 0 tiles.
+[00:00:35]: Done forest map gen!	
+[00:00:35]: Checking map...	
+[00:00:35]: Generation complete, injecting world entities.	
+[00:00:35]: Injected world entities.	
+[00:00:36]: WorldSim::SimThread::Main() complete
+[00:00:36]: Serializing world: session/3C33F150CB43CCEE/0000000002
+[00:00:36]: Auto-enabling encoded user paths
+[00:00:36]: Klump load on boot started.	
+[00:00:36]: Klump files loaded: 	0	
+[00:00:36]: 	Unload FE	
+[00:00:36]: 	Unload FE done	
+[00:00:40]: 	LOAD BE	
+[00:01:07]: 	LOAD BE: done	
+[00:01:07]: Begin Session: 3C33F150CB43CCEE
+[00:01:07]: saving to server_temp/server_save	
+[00:01:07]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:01:07]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:01:07]: Loading 19 new character(s)	
+[00:01:09]: Total 19 character(s) loaded	
+[00:01:11]: Loading Nav Grid	
+[00:01:11]: World generated on build 740477 with save version: 5.23, using seed: 880052638	
+[00:01:32]: Reconstructing topology	
+[00:01:32]: 	...Sorting points	
+[00:01:32]: 	...Sorting edges	
+[00:01:32]: 	...Connecting nodes	
+[00:01:32]: 	...Validating connections	
+[00:01:33]: 	...Housekeeping	
+[00:01:33]: 	...Done!	
+[00:01:33]: [Special Event] Setting up crow_carnival	
+[00:01:33]: 1 uploads added to server. From server_temp
+[00:01:33]: Telling Client our new session identifier: 3C33F150CB43CCEE
+[00:01:34]: Skipping portal[1] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[2] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[3] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[4] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[5] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[6] (no available shard [Caves] connected)	
+[00:01:35]: Skipping portal[7] (no available shard [Caves] connected)	
+[00:01:36]: Skipping portal[8] (no available shard [Caves] connected)	
+[00:01:36]: Skipping portal[oceanwhirlbigportal] (no available shard [Caves] connected)	
+[00:01:36]: Skipping portal[9] (no available shard [Caves] connected)	
+[00:01:36]: Skipping portal[10] (no available shard [Caves] connected)	
+[00:01:37]: Server registered via geo DNS in eu-central-1
+[00:09:38]: Available disk space for save files: 132529 MB
+[00:09:40]: Serializing world: session/3C33F150CB43CCEE/0000000003
+[00:17:40]: Available disk space for save files: 132525 MB
+[00:17:41]: Serializing world: session/3C33F150CB43CCEE/0000000004
+[00:22:26]: Available disk space for save files: 132518 MB
+[00:22:27]: Serializing world: session/3C33F150CB43CCEE/0000000005
+[00:22:27]: Removing server from lobby
+[00:22:27]: [Steam] SendUserDisconnect for ''
+[00:22:28]: Collecting garbage...
+[00:22:29]: lua_gc took 0.81 seconds
+[00:22:29]: ~ShardLuaProxy()
+[00:22:29]: ~cEventLeaderboardProxy()
+[00:22:29]: ~ItemServerLuaProxy()
+[00:22:29]: ~InventoryLuaProxy()
+[00:22:29]: ~NetworkLuaProxy()
+[00:22:29]: ~SimLuaProxy()
+[00:22:29]: Cancelling LuaQueryCallback handle [13]
+[00:22:30]: lua_close took 0.90 seconds
+[00:22:30]: CurlRequestManager::ClientThread::Main() complete
+[00:22:30]: HttpClient2 discarded 0 callbacks.
+[00:22:30]: Shutting down

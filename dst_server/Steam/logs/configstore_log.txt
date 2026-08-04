@@ -1,0 +1,82 @@
+
+
+[2026-07-22 21:59:33] Failed to read store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf.tmp'
+
+
+[2026-07-22 21:59:41] Client version: 1784669060
+[2026-07-22 21:59:41] Failed to read store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf.tmp'
+[2026-07-22 21:59:41] Failed to read store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf.tmp'
+[2026-07-22 21:59:41] Failed to read store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf.tmp'
+[2026-07-22 21:59:42] Failed to read store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf.tmp'
+[2026-07-22 21:59:42] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 21:59:42] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 21:59:43] Failed to read store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2026-07-22 21:59:43] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 21:59:45] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-07-22 22:00:23] Client version: 1784669060
+[2026-07-22 22:00:23] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:00:24] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:00:24] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:00:24] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:00:25] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:00:25] Loaded store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-07-22 22:00:25] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:00:27] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-07-22 22:00:27] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-07-22 22:00:28] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:00:29] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:00:59] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:01:29] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:01:59] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+
+
+[2026-07-22 22:02:06] Client version: 1784669060
+[2026-07-22 22:02:06] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:02:06] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:02:06] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:02:06] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:02:07] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-22 22:02:07] Loaded store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-07-22 22:02:08] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-22 22:02:09] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-07-23 06:11:14] Client version: 1784777803
+[2026-07-23 06:11:14] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:11:15] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:11:15] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:11:15] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:11:16] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:11:16] Loaded store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-07-23 06:11:16] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:11:18] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-07-23 06:11:49] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:12:19] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:12:49] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:13:19] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:13:49] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:14:19] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:14:50] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+
+
+[2026-07-23 06:15:11] Client version: no bootstrapper found
+[2026-07-23 06:15:11] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:15:13] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+
+
+[2026-07-23 06:26:13] Client version: 1784777803
+[2026-07-23 06:26:13] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:13] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:13] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:13] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:14] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:15] Loaded store 'userlocal' from '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-07-23 06:26:15] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'
+[2026-07-23 06:26:16] Flushed store 'userlocal' to '/mnt/data/stacks/dst_server/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-07-23 06:26:35] Client version: no bootstrapper found
+[2026-07-23 06:26:35] Loaded store 'install' from '/mnt/data/stacks/dst_server/Steam/config/config.vdf' successfully
+[2026-07-23 06:26:37] Flushed store 'install' to '/mnt/data/stacks/dst_server/Steam/config/config.vdf'

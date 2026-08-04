@@ -1,0 +1,20 @@
+
+
+[2026-07-22 21:59:41] Client version: 1784669060
+[2026-07-22 21:59:41] Mapping AppID 0 to tool "proton_experimental" with priority 75
+
+
+[2026-07-22 22:00:24] Client version: 1784669060
+[2026-07-22 22:00:24] Mapping AppID 0 to tool "proton_experimental" with priority 75
+
+
+[2026-07-22 22:02:06] Client version: 1784669060
+[2026-07-22 22:02:06] Mapping AppID 0 to tool "proton_experimental" with priority 75
+
+
+[2026-07-23 06:11:15] Client version: 1784777803
+[2026-07-23 06:11:15] Mapping AppID 0 to tool "proton_experimental" with priority 75
+
+
+[2026-07-23 06:26:13] Client version: 1784777803
+[2026-07-23 06:26:13] Mapping AppID 0 to tool "proton_experimental" with priority 75

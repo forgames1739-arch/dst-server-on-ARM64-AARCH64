@@ -1,0 +1,10 @@
+
+
+[2026-07-23 06:15:11] Client version: no bootstrapper found
+[2026-07-23 06:15:11] Initializing System Manager
+[2026-07-23 06:15:11] Skipping CSystemManager Init because we are in a game process
+
+
+[2026-07-23 06:26:35] Client version: no bootstrapper found
+[2026-07-23 06:26:35] Initializing System Manager
+[2026-07-23 06:26:35] Skipping CSystemManager Init because we are in a game process

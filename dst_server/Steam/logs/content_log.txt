@@ -1,0 +1,155 @@
+
+
+[2026-07-22 21:59:33] Client version: 1784669060
+[2026-07-22 21:59:33] Library folder "" is not writable (Missing file permissions).
+[2026-07-22 21:59:33] Failed installing AppID 343050 (Missing file permissions)
+
+
+[2026-07-22 21:59:43] Client version: 1784669060
+[2026-07-22 21:59:43] Loaded 0 apps from install folder "/home/steam/dst/game/steamapps\appmanifest_*.acf".
+[2026-07-22 21:59:43] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-22 22:00:17] Failed installing AppID 343050 (Missing configuration)
+
+
+[2026-07-22 22:00:25] Client version: 1784669060
+[2026-07-22 22:00:25] Loaded 0 apps from install folder "/home/steam/dst/game/steamapps\appmanifest_*.acf".
+[2026-07-22 22:00:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-22 22:00:27] AppID 343050 state changed : Update Required,
+[2026-07-22 22:00:27] AppID 343050 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-07-22 22:00:27] AppID 343050 state changed : Update Required,Update Queued,
+[2026-07-22 22:00:27] AppID 343050 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-07-22 22:00:27] AppID 343050 state changed : Update Required,Update Queued,Update Running,
+[2026-07-22 22:00:27] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:00:27] AppID 343050 App update changed : Running Update,Reconfiguring,
+[2026-07-22 22:00:28] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 88 / Launcher 3)
+[2026-07-22 22:00:28] Moving to source priority class '3'
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2026-07-22 22:00:28] Created download interface of type 'SteamCache' (7) to host cache6-fra2.steamcontent.com (cache6-fra2.steamcontent.com)
+[2026-07-22 22:00:28] HTTP/2 available
+[2026-07-22 22:00:28] Created ipv4-only http client
+[2026-07-22 22:00:28] HTTPS (SteamCache,81) - cache7-fra1.steamcontent.com (162.254.197.4:443 / 162.254.197.4:443, host: cache7-fra1.steamcontent.com): cache7-fra1.steamcontent.com/depot/1006/manifest/6403079453713498174/5/1649797450408458072 - manifest request received 200 (OK) HTTP response
+[2026-07-22 22:00:29] HTTPS (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.40:443 / 155.133.226.40:443, host: cache7-fra2.steamcontent.com): cache7-fra2.steamcontent.com/depot/343052/manifest/9006799368611588108/5/12859005099401874434 - manifest request received 200 (OK) HTTP response
+[2026-07-22 22:00:29] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:00:29] AppID 343050 App update changed : Running Update,Verifying Installed,
+[2026-07-22 22:00:30] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:00:30] AppID 343050 App update changed : Running Update,Preallocating,
+[2026-07-22 22:00:32] AppID 343050 preallocated 0 files (0 MB) 
+[2026-07-22 22:00:32] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:00:32] AppID 343050 update started : download 0/3031701888, store 0/0, reuse 0/0, delta 0/0, stage 0/4481879800 
+[2026-07-22 22:00:32] AppID 343050 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-07-22 22:00:32] AppID 343050 App update changed : Running Update,Downloading,Staging,
+[2026-07-22 22:00:32] Downloading 105 chunks for depot 1006 (6403079453713498174)
+[2026-07-22 22:00:41] Downloading 13226 chunks for depot 343052 (9006799368611588108)
+[2026-07-22 22:00:42] Increasing target number of download connections to 9 (rate was 0.000, now 300.460)
+[2026-07-22 22:00:42] Created download interface of type 'SteamCache' (7) to host cache4-fra2.steamcontent.com (cache4-fra2.steamcontent.com)
+[2026-07-22 22:01:41] Current download rate: 92.804 Mbps
+
+
+[2026-07-22 22:02:08] Client version: 1784669060
+[2026-07-22 22:02:08] Loaded 1 apps from install folder "/home/steam/dst/game/steamapps\appmanifest_*.acf".
+[2026-07-22 22:02:08] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-22 22:02:09] AppID 343050 scheduler update : Priority First, not played for 103 seconds, update disabled for 0 seconds
+[2026-07-22 22:02:09] AppID 343050 state changed : Update Required,Update Queued,Update Started,
+[2026-07-22 22:02:09] AppID 343050 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-07-22 22:02:09] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:02:09] AppID 343050 App update changed : Running Update,Reconfiguring,
+[2026-07-22 22:02:09] AppID 343050 App update changed : Running Update,
+[2026-07-22 22:02:09] Incomplete loading /home/steam/dst/game/steamapps/downloading/state_343050_1006.patch: missing sentinel
+[2026-07-22 22:02:09] Incomplete loading /home/steam/dst/game/steamapps/downloading/state_343050_343052.patch: missing sentinel
+[2026-07-22 22:02:09] AppID 343050 update started : download 842892400/3031701888, store 0/0, reuse 0/0, delta 0/0, stage 971260480/4481879800 
+[2026-07-22 22:02:09] AppID 343050 App update changed : Running Update,Downloading,Staging,
+[2026-07-22 22:02:09] Got 31 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 88 / Launcher 3)
+[2026-07-22 22:02:09] Moving to source priority class '3'
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache14-fra1.steamcontent.com (cache14-fra1.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2026-07-22 22:02:09] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2026-07-22 22:02:09] Downloading 40 chunks for depot 1006 (6403079453713498174)
+[2026-07-22 22:02:09] HTTP/2 available
+[2026-07-22 22:02:09] Created ipv4-only http client
+[2026-07-22 22:02:10] IPv6 Connectivity state has changed, downgrading to ipv4-only
+
+
+[2026-07-23 06:11:16] Client version: 1784777803
+[2026-07-23 06:11:16] Loaded 1 apps from install folder "/home/steam/dst/game/steamapps\appmanifest_*.acf".
+[2026-07-23 06:11:16] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-23 06:11:18] AppID 343050 scheduler update : Priority First, not played for 29452 seconds, update disabled for 0 seconds
+[2026-07-23 06:11:18] AppID 343050 state changed : Update Required,Update Queued,Update Started,
+[2026-07-23 06:11:18] AppID 343050 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-07-23 06:11:18] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:11:18] AppID 343050 App update changed : Running Update,Reconfiguring,
+[2026-07-23 06:11:18] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:11:18] Incomplete loading /home/steam/dst/game/steamapps/downloading/state_343050_1006.patch: missing sentinel
+[2026-07-23 06:11:18] Incomplete loading /home/steam/dst/game/steamapps/downloading/state_343050_343052.patch: missing sentinel
+[2026-07-23 06:11:18] AppID 343050 update started : download 842892400/3031701888, store 0/0, reuse 0/0, delta 0/0, stage 971260480/4481879800 
+[2026-07-23 06:11:18] AppID 343050 App update changed : Running Update,Downloading,Staging,
+[2026-07-23 06:11:18] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 88 / Launcher 3)
+[2026-07-23 06:11:18] Moving to source priority class '3'
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache7-fra2.steamcontent.com (cache7-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache1-fra2.steamcontent.com (cache1-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache6-fra2.steamcontent.com (cache6-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache14-fra1.steamcontent.com (cache14-fra1.steamcontent.com)
+[2026-07-23 06:11:18] Created download interface of type 'SteamCache' (7) to host cache4-fra2.steamcontent.com (cache4-fra2.steamcontent.com)
+[2026-07-23 06:11:18] Downloading 40 chunks for depot 1006 (6403079453713498174)
+[2026-07-23 06:11:18] HTTP/2 available
+[2026-07-23 06:11:18] Created ipv4-only http client
+[2026-07-23 06:11:22] Downloading 8986 chunks for depot 343052 (9006799368611588108)
+[2026-07-23 06:11:31] Increasing target number of download connections to 9 (rate was 0.000, now 188.069)
+[2026-07-23 06:11:31] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
+[2026-07-23 06:12:32] Current download rate: 91.170 Mbps
+[2026-07-23 06:13:33] Current download rate: 76.712 Mbps
+[2026-07-23 06:14:34] Current download rate: 0.000 Mbps
+[2026-07-23 06:14:46] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:14:46] AppID 343050 App update changed : Running Update,Verifying Staged,
+[2026-07-23 06:15:02] Verified 4274 MB in '/mnt/data/stacks/dst_server/Steam', clean bytes tally is now 4274 MB
+[2026-07-23 06:15:02] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-23 06:15:02] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:15:02] AppID 343050 App update changed : Running Update,Committing,
+[2026-07-23 06:15:02] AppID 343050 starting commit from "/home/steam/dst/game/steamapps/downloading/343050" to "/home/steam/dst/game" : 10942 updated, 0 moved, 0 deleted files
+[2026-07-23 06:15:07] AppID 343050 state changed : Fully Installed,Update Queued,Update Running,
+[2026-07-23 06:15:07] AppID 343050 finished update, 2 mounted depots (BuildID 24080846) : 1006 (6403079453713498174),343052 (9006799368611588108),
+[2026-07-23 06:15:07] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:15:07] AppID 343050 App update changed : None
+[2026-07-23 06:15:07] AppID 343050 state changed : Fully Installed,Update Queued,
+[2026-07-23 06:15:07] AppID 343050 state changed : Fully Installed,
+[2026-07-23 06:15:07] AppID 343050 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-07-23 06:15:09] HTTPS (SteamCache,241) - cache1-fra1.steamcontent.com (162.254.197.6:443 / 162.254.197.6:443, host: cache1-fra1.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,154) - cache4-fra2.steamcontent.com (155.133.226.54:443 / 155.133.226.54:443, host: cache4-fra2.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,157) - cache14-fra1.steamcontent.com (162.254.197.24:443 / 162.254.197.24:443, host: cache14-fra1.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,242) - cache6-fra2.steamcontent.com (155.133.226.24:443 / 155.133.226.24:443, host: cache6-fra2.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.7:443 / 155.133.226.7:443, host: cache5-fra2.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,249) - cache9-fra1.steamcontent.com (162.254.197.11:443 / 162.254.197.11:443, host: cache9-fra1.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.23:443 / 155.133.226.23:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,250) - cache1-fra2.steamcontent.com (155.133.226.6:443 / 155.133.226.6:443, host: cache1-fra2.steamcontent.com): Closing connection
+[2026-07-23 06:15:09] HTTPS (SteamCache,247) - cache7-fra2.steamcontent.com (155.133.226.40:443 / 155.133.226.40:443, host: cache7-fra2.steamcontent.com): Closing connection
+
+
+[2026-07-23 06:26:15] Client version: 1784777803
+[2026-07-23 06:26:15] Loaded 1 apps from install folder "/home/steam/dst/game/steamapps\appmanifest_*.acf".
+[2026-07-23 06:26:15] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-07-23 06:26:16] Start validating appID 343050 on BuildID 24080846
+[2026-07-23 06:26:16] AppID 343050 scheduler update : Priority First, not played for 30350 seconds, update disabled for 0 seconds
+[2026-07-23 06:26:16] AppID 343050 state changed : Fully Installed,Update Queued,
+[2026-07-23 06:26:16] AppID 343050 state changed : Fully Installed,Update Queued,Update Running,
+[2026-07-23 06:26:16] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:26:16] AppID 343050 App update changed : Running Update,Reconfiguring,
+[2026-07-23 06:26:16] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:26:16] AppID 343050 App update changed : Running Update,Verifying Installed,
+[2026-07-23 06:26:32] AppID 343050 App update changed : Running Update,
+[2026-07-23 06:26:32] AppID 343050 App update changed : None
+[2026-07-23 06:26:32] AppID 343050 state changed : Fully Installed,Update Queued,
+[2026-07-23 06:26:32] AppID 343050 state changed : Fully Installed,
+[2026-07-23 06:26:32] AppID 343050 scheduler finished : removed from schedule (result No Error, state 0xc) 

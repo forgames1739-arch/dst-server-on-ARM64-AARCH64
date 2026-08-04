@@ -1,0 +1,12 @@
+
+
+[2026-07-23 06:15:11] Client version: no bootstrapper found
+[2026-07-23 06:15:11] UpdateCurrentGame: setting current gameid: 769
+[2026-07-23 06:15:11] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-07-23 06:15:11] Initialized system perf manager
+
+
+[2026-07-23 06:26:35] Client version: no bootstrapper found
+[2026-07-23 06:26:35] UpdateCurrentGame: setting current gameid: 769
+[2026-07-23 06:26:35] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-07-23 06:26:35] Initialized system perf manager

@@ -1,0 +1,57 @@
+services:
+  dst-server:
+    build: .
+    container_name: dst-server
+    restart: unless-stopped
+    environment:
+      SHARD: Master
+      CLUSTER_TOKEN: pds-g^KU_ZIGjeWAP^Rk1YOzjNzMtJe6Ewnvp8YdWxgzF31y+K3oNRQyHRYAA=
+      CLUSTER_NAME: MyDediServer
+      CLUSTER_DISPLAY_NAME: 3 Брата Акробата
+      CLUSTER_DESCRIPTION: Уютный мирок
+      CLUSTER_PASSWORD: "759"
+      MAX_PLAYERS: "4"
+      GAME_MODE: survival
+      PVP: "false"
+      ARM64_DEVICE: generic
+      BOX64_DYNAREC_BIGBLOCK: "0"
+      BOX64_DYNAREC_SAFEFLAGS: "2"
+      BOX64_DYNAREC_STRONGMEM: "3"
+      BOX64_DYNAREC_FASTROUND: "0"
+      BOX64_DYNAREC_FASTNAN: "0"
+      BOX64_DYNAREC_X87DOUBLE: "1"
+    ports:
+      - 10999:10999/udp
+      - 12346:12346/udp
+      - 12347:12347/udp
+    volumes:
+      - /mnt/data/stacks/dst_server/save:/home/ubuntu/dst/save
+    networks:
+      - dst-net
+
+  dst-server-caves:
+    build: .
+    container_name: dst-server-caves
+    restart: unless-stopped
+    depends_on:
+      - dst-server
+    environment:
+      SHARD: Caves
+      CLUSTER_TOKEN: pds-g^KU_ZIGjeWAP^Rk1YOzjNzMtJe6Ewnvp8YdWxgzF31y+K3oNRQyHRYAA=
+      CLUSTER_NAME: MyDediServer
+      ARM64_DEVICE: generic
+      BOX64_DYNAREC_BIGBLOCK: "0"
+      BOX64_DYNAREC_SAFEFLAGS: "2"
+      BOX64_DYNAREC_STRONGMEM: "3"
+      BOX64_DYNAREC_FASTROUND: "0"
+      BOX64_DYNAREC_FASTNAN: "0"
+      BOX64_DYNAREC_X87DOUBLE: "1"
+    ports:
+      - 11000:11000/udp
+    volumes:
+      - /mnt/data/stacks/dst_server/save:/home/ubuntu/dst/save
+    networks:
+      - dst-net
+
+networks:
+  dst-net:

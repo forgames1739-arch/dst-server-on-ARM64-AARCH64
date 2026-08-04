@@ -1,0 +1,59 @@
+[BOX32] 07/23 06:26:11 minidumps folder is set to /tmp/dumps
+07/23 06:26:11 Init: Installing breakpad exception handler for appid(steam)/version(1784777803)/tid(14)
+0017|Call to dlsym((nil), "GetClientLauncherType")0x402782e0
+[BOX32] flock /sys/devices/virtual/dmi/id/sys_vendor LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/product_name LOCK_SH failed. errno = 130014|Call to dlopen("/home/steam/steamcmd/steamconsole.so"/0x6d5b0a30, 2)
+[BOX32] Trying to load "/home/steam/steamcmd/steamconsole.so"
+[BOX32] Simplified name is "steamconsole.so"
+[BOX32] Warning: Cannot dlopen("/home/steam/steamcmd/steamconsole.so"/0x6d5b0a30, 2)
+[BOX32] 0014|Call to dlopen("steamconsole.so"/0x6d5b0a30, 2)
+[BOX32] Trying to load "steamconsole.so"
+[BOX32] Simplified name is "steamconsole.so"
+[BOX32] Trying to load "libtier0_s.so"
+[BOX32] Simplified name is "libtier0_s.so"
+[BOX32] Trying to load "libvstdlib_s.so"
+[BOX32] Simplified name is "libvstdlib_s.so"
+[BOX32] dlopen: New handle 0x5 (steamconsole.so), dlopened=1
+[BOX32] 0014|Call to dlsym((nil), "WORKAROUND_GdbSymbolLoadHook")(nil)
+[BOX32] 0014|Call to dlsym(0x5, "SteamDllMainEx")0x40b47d60
+[BOX32] 0014|Call to dlsym((nil), "GetBootstrapperVersion")0x402782c0
+[BOX32] 0014|Call to dlsym((nil), "GetBootstrapperVersion")0x402782c0
+[BOX32] 0019|Call to dlopen("/home/steam/steamcmd/linux32/crashhandler.so"/0x40c8d9f8, 2)
+[BOX32] dlopen: Recycling /home/steam/steamcmd/linux32/crashhandler.so/0x4 count=2 (dlopened=1, elf_index=1)
+[BOX32] 0019|Call to dlsym(0x4, "CreateInterface")0x409f5110
+[BOX32] 0014|Call to dlopen("/home/steam/steamcmd/steamclient.so"/0x6d5b0a30, 2)
+[BOX32] Trying to load "/home/steam/steamcmd/steamclient.so"
+[BOX32] Simplified name is "steamclient.so"
+[BOX32] Warning: Cannot dlopen("/home/steam/steamcmd/steamclient.so"/0x6d5b0a30, 2)
+[BOX32] 0014|Call to dlopen("steamclient.so"/0x6d5b0a30, 2)
+[BOX32] Trying to load "steamclient.so"
+[BOX32] Simplified name is "steamclient.so"
+[BOX32] flock /sys/devices/virtual/dmi/id/sys_vendor LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/product_name LOCK_SH failed. errno = 13dlopen: New handle 0x6 (steamclient.so), dlopened=1
+[BOX32] 0014|Call to dlsym((nil), "WORKAROUND_GdbSymbolLoadHook")(nil)
+[BOX32] 0014|Call to dlsym(0x6, "CreateInterface")0x43286c10
+[BOX32] 0014|Call to dlsym((nil), "SteamBootstrapper_GetEUniverse")(nil)
+[BOX32] 0014|Call to dlsym((nil), "GetClientLauncherType")0x402782e0
+[BOX32] 0014|Call to dlsym((nil), "GetBootstrapperVersion")0x402782c0
+[BOX32] 0014|Call to dlsym((nil), "GetCurrentClientBeta")0x40278480
+[BOX32] 0020|Call to dlopen("/home/steam/steamcmd/linux32/crashhandler.so"/0x43ce0dd8, 2)
+[BOX32] dlopen: Recycling /home/steam/steamcmd/linux32/crashhandler.so/0x4 count=3 (dlopened=1, elf_index=1)
+[BOX32] 0020|Call to dlsym(0x4, "CreateInterface")0x409f5110
+[BOX32] 0022|Call to dlsym((nil), "GetBootstrapperVersion")0x402782c0
+[BOX32] 0021|Call to dlsym((nil), "GetClientLauncherType")0x402782e0
+[BOX32] 0021|Call to dlsym((nil), "GetClientBootstrapMetrics")(nil)
+[BOX32] 0014|Call to dlsym(0x6, "Steam_BGetCallback")0x42502710
+[BOX32] 0014|Call to dlsym(0x6, "Steam_FreeLastCallback")0x42502680
+[BOX32] 0014|Call to dlsym(0x6, "Steam_GetAPICallResult")0x425027a0
+[BOX32] 0032|Call to dlopen("libSDL3.so.0"/0x41b92134, 2)
+[BOX32] Trying to load "libSDL3.so.0"
+[BOX32] Simplified name is "libSDL3.so.0"
+[BOX32] Warning: Cannot dlopen("libSDL3.so.0"/0x41b92134, 2)
+[BOX32] Call to dlclose(0x6)
+[BOX32] Call to dlclose(0x4)
+[BOX32] Free1Library steamclient.so
+[BOX32] Call to dlclose(0x5)
+[BOX32] Free1Library steamconsole.so
+[BOX32] Free1Library libvstdlib_s.so
+[BOX32] Call to dlclose(0x4)
+[BOX32] Free1Library libtier0_s.so
+[BOX32] Call to dlclose(0x4)
+[BOX32] Free1Library crashhandler.so
