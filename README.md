@@ -6,11 +6,18 @@ Klei doesn't release an ARM version of the dedicated server — the binary is x8
 ---
 ## In the files attached to the project, I set up my server without a token. You can use it as a base, because it is fully configured, you just need to launch it. For those who are making a server from scratch, the instructions are below.
 
+
 !Rights were taken into account during the work on the project!
+
 https://github.com/sonroyaalmerol/steamcmd-arm64/blob/master/LICENSE
+
 https://github.com/ptitSeb/box64/blob/main/LICENSE
+
 https://github.com/ptitSeb/box86/blob/master/LICENSE
+
 https://www.debian.org/legal/licenses/
+
+
 
 !Server setup is only available if you own a license for this game!
 ---
