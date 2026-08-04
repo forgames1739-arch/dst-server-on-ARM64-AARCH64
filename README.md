@@ -336,4 +336,24 @@ The server will be visible in-game by name (the `CLUSTER_DISPLAY_NAME` value) in
 c_connect("your_server_IP", 10999)
 ```
 
-Don't forget to open the following UDP ports on the host (and in the cloud firewall/security list, if this is Oracle Cloud or similar): `10999`, `11000` (if using caves), `12346`, `12347`, `12348` (if using caves).
+Don't forget to open the following UDP ports on the host: `10999`, `11000` (if using caves), `12346`, `12347`, `12348` (if using caves).
+
+Make sure you delete the contents of the /save/DoNotStarveTogether folder except the token. At the end, the container structure looks like this:
+
+/mnt/data/stacks/dst_server/
+├── compose.yaml
+├── Dockerfile
+├── entrypoint.sh
+└── save/
+    └── .klei/
+        └── DoNotStarveTogether/
+            └── MyDediServer/
+                ├── cluster.ini
+                ├── cluster_token.txt
+                ├── Master/
+                │   └── server.ini
+                └── Caves/
+                    └── server.ini
+
+    └── DoNotStarveTogether/
+        └── cluster_token.txt
