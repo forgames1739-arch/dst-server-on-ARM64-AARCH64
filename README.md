@@ -358,6 +358,4 @@ Make sure you delete the contents of the /save/DoNotStarveTogether folder except
 
 <img width="264" height="344" alt="изображение" src="https://github.com/user-attachments/assets/bf321075-c04f-48a9-9f79-04a471d50905" />
 
-If you have any questions, please email me at "your.karma315@passinbox.com"
-
 Enjoy the game!
