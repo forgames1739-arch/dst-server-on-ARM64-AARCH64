@@ -5,7 +5,7 @@ services:
     restart: unless-stopped
     environment:
       SHARD: Master
-      CLUSTER_TOKEN: TOKEN
+      CLUSTER_TOKEN: ${CLUSTER_TOKEN}
       CLUSTER_NAME: MyDediServer
       CLUSTER_DISPLAY_NAME: 1234
       CLUSTER_DESCRIPTION: 1234
@@ -25,7 +25,7 @@ services:
       - 12346:12346/udp
       - 12347:12347/udp
     volumes:
-      - /mnt/data/stacks/dst_server/save:/home/ubuntu/dst/save
+      - dst_server/save:/home/ubuntu/dst/save
     networks:
       - dst-net
 
@@ -37,7 +37,7 @@ services:
       - dst-server
     environment:
       SHARD: Caves
-      CLUSTER_TOKEN: TOKEN
+      CLUSTER_TOKEN: ${CLUSTER_TOKEN}
       CLUSTER_NAME: MyDediServer
       ARM64_DEVICE: generic
       BOX64_DYNAREC_BIGBLOCK: "0"
@@ -49,7 +49,7 @@ services:
     ports:
       - 11000:11000/udp
     volumes:
-      - /mnt/data/stacks/dst_server/save:/home/ubuntu/dst/save
+      - dst_server/save:/home/ubuntu/dst/save
     networks:
       - dst-net
 
